@@ -559,7 +559,7 @@ def main():
         st.session_state.holdings_history = {}
     
     # 헤더
-    st.markdown('<h1 class="main-header">📊 타임폴리오 ETF & 인프라 투자 대시보드</h1>', unsafe_allow_html=True)
+    st.markdown('<h1 class="main-header">📊 타임폴리오 ETF 대시보드</h1>', unsafe_allow_html=True)
     st.markdown(f'<p class="sub-header">📅 {datetime.now().strftime("%Y년 %m월 %d일")} | 인프라프론티어자산운용(주)</p>', unsafe_allow_html=True)
     
     # 사이드바
