@@ -643,7 +643,7 @@ def main():
                 st.markdown(f"""
                 <div class="metric-card">
                     <div class="metric-title">순자산</div>
-                    <div class="metric-value">{aum_str}억</div>
+                    <div class="metric-value">{aum_str}</div>
                 </div>
                 """, unsafe_allow_html=True)
             
