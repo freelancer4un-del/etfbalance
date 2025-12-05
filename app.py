@@ -10,7 +10,7 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="📊 타임폴리오 ETF & 인프라 투자 대시보드",
+    page_title="📊 타임폴리오 ETF",
     page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded"
